@@ -5,4 +5,4 @@ pip install beautifulsoup4
 pip install urllib3
 ```
 
-#### Telegram @FengYL_BO
+#### Telegram @FengYL_BOT
