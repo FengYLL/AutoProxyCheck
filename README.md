@@ -4,5 +4,9 @@
 pip install beautifulsoup4
 pip install urllib3
 ```
+#### 下载脚本
+```
+wget https://raw.githubusercontent.com/FengYLL/AutoProxyCheck/main/prxoies.py
+```
 
 #### Telegram @FengYL_BOT
