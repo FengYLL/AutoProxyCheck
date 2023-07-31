@@ -1,13 +1,14 @@
-### 自动检查http代理欺诈风险
-#### 安装前置
+### 自动检查http代理欺诈风险 
+#### Auto testing HTTP proxy fraud values
+#### 安装前置 | Install  plugin
 ```
 pip install beautifulsoup4
 pip install urllib3
 ```
-#### 下载脚本
+#### 下载脚本 | Download
 ```
 wget https://raw.githubusercontent.com/FengYLL/AutoProxyCheck/main/prxoies.py
 ```
-
-### Telegram @FengYL_BOT
+#### 示例 | Example
 ![](https://raw.githubusercontent.com/FengYLL/AutoProxyCheck/main/e.g.jpg)
+## Telegram  @FengYL_BOT
