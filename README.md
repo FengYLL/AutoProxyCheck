@@ -10,5 +10,5 @@ pip install urllib3
 wget https://raw.githubusercontent.com/FengYLL/AutoProxyCheck/main/prxoies.py
 ```
 #### 示例 | Example
-![](https://raw.githubusercontent.com/FengYLL/AutoProxyCheck/main/e.g.jpg)
+![](https://telegra.ph/file/bb13f0c4c11f3f38ba844.jpg)
 ## Telegram  @FengYL_BOT
